@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Aspiring **Data Scientist / ML Engineer**
+- 🎓 Aspiring **Data Analyst / ML Engineer**
 - 🤖 Currently working on:
   - Customer Churn Prediction + Drift Detection System
   - Deepfake Video Detection (research + scalability focus)
