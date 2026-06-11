@@ -1,7 +1,7 @@
 ## Hi there 👋<h1 align="center">Hi 👋, I'm Ayushree Sharma</h1>
 
 <p align="center">
-  <b>Aspiring Data Scientist | Machine Learning Engineer | Python Developer</b>
+  <b>Aspiring Data Analyst | Machine Learning Engineer | Python Developer</b>
 </p>
 
 <p align="center">
