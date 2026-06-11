@@ -16,7 +16,7 @@
 - 🤖 Currently working on:
   - Customer Churn Prediction + Drift Detection System
   - Deepfake Video Detection (research + scalability focus)
-- 📊 Strong interest in **Machine Learning, Data Science & AI systems**
+- 📊 Strong interest in **Machine Learning, Data Analyst & AI systems**
 - 🧠 Practicing **Data Structures & Algorithms in Python**
 - 🌱 Currently learning:
   - Advanced Machine Learning
@@ -32,7 +32,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📊 Data Science & ML
+### 📊 Data Analyst & ML
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -75,17 +75,7 @@
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushreeSharma&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushreeSharma&theme=tokyonight" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
